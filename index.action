@@ -39,7 +39,6 @@
 <script type="text/javascript" src="/static/js/ueditor/ueditor.parse.js"></script>
 <script type="text/javascript" src="/static/js/jquery-qrcode-master/jquery.qrcode.min.js"></script>
 
-
     <link rel="stylesheet" type="text/css" href="/static/extranet/mhedu/index/css/style.css">
   	<style type="text/css">
 		.mlink li {
@@ -53,9 +52,9 @@
 
 
 
-    <a href="https://jyxy.mhedu.sh.cn/extranet/web/mhedu/xx!info.action?id=ff80808190d416b30192039d786e141a&code=EDXW.002" target="_blank"
+    <a href="https://jyxy.mhedu.sh.cn/extranet/web/mhedu/xx!info.action?id=ff8080819eeec27001a09d6006c01407&code=EDXW.002.008" target="_blank"
        style=" position: fixed; width: 125px; top: 140px;  overflow: hidden;right: 0px;">
-        <img src="https://jyxyfiles.mhedu.sh.cn/ftpfiles/dcpfiles/8a9c1a005cce76e5015cd2e970790651/app/XYXW/allArea/main/2024/09/e4d9e54373be4cb6ac0604bd9bf8b162.jpg" >
+        <img src="https://jyxyfiles.mhedu.sh.cn/ftpfiles/dcpfiles/8a9c1a005cce76e5015cd2e970790651/app/XYXW/allArea/main/2026/09/8cecf91aed8b4fcc8e886aaebb067b2a.png" >
         <div onclick="event.preventDefault();this.parentElement.hidden=true"
              style=" border: 1px solid black; font-size: 17px; height: 13px; display: inline-block;position:absolute;bottom: 0px; right: 0px; ">
             <span style="margin-top: -8px;display: table-caption;font-size: 17px;padding: 0px 2px;color:  black;">x</span>
@@ -320,8 +319,10 @@
                     src="/static/extranet/mhedu/index/images/linkn3.png" alt="" height="115" width="260"></a>
         </div>
         <div class="qlink-div">
-            <a target="_blank" href="http://mzxt.mhzhjy.net" target="view_window"><img
-                    src="/static/extranet/mhedu/index/images/linkn4.png" alt="" height="115" width="260"></a>
+			
+            <a target="_blank" href="https://mhkcai.eduku.cn/" target="view_window">
+				<img src="/static/extranet/mhedu/index/images/linkn44.png" alt="" height="115" width="260">
+			</a>
         </div>
 	</ul>
 </div>
